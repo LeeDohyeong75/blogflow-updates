@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "version": "0.4.0-beta.8",
+  "installer_url": "https://github.com/LeeDohyeong75/blogflow-updates/releases/download/v0.4.0-beta.8/BlogFlow_Pilot_Setup_0.4.0-beta8.exe",
+  "sha256": "051847111263cfb1aa93f36e7cb37c15e5fff7b81c45943c58b1694cbda0a054",
+  "size": 40379942,
+  "notes": "BlogFlow beta.8: online update + DB preservation field verification",
+  "signature": "6762c7776a8579d901123f49bf9abad0e0249e0119546f89177ec44eae6f3192396d5dcd8518e9957765c49914b591e344d09a5eacafec2f73626bc4c2996c04"
+}
