@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "0.4.0-beta.14",
-  "installer_url": "https://github.com/LeeDohyeong75/blogflow-updates/releases/download/v0.4.0-beta.14/BlogFlow_Pilot_Setup_0.4.0-beta14.exe",
-  "sha256": "2ad2cb65df070ae25e9948cdae4598217ebdc7536227a025687d08d50d6f487f",
-  "size": 40564639,
-  "notes": "BlogFlow beta.14: 고객지원 오류 안내 및 개인정보 제외 문제 보고서",
-  "signature": "0e155e430ec8979ffa48ba11e8deb522b23b968015e2b1189074a87fb384ce0418e303c2f7a1716f1489998c0f18bdb938f0b0331e02fe9149573224d3bf1705"
+  "version": "0.4.0-beta.15",
+  "installer_url": "https://github.com/LeeDohyeong75/blogflow-updates/releases/download/v0.4.0-beta.15-pilot-test/BlogFlow_Pilot_Setup_0.4.0-beta15_TEST_ONLY.exe",
+  "sha256": "828615110aa7db7067b4edf1d26bcdc37acc511488b7603982130bdd449d6198",
+  "size": 40934870,
+  "notes": "TEST ONLY beta.15 pilot update; do not install on customer PCs.",
+  "signature": "126f8d524ccfeab3f945fdfe2a2c205bc0b2f2b0b79508bdfc82df2ba7d931992c260f7e9c16943adcc1d4c06286a33d8dfeb0e160293e36bc141f82ae040d04"
 }
