@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "0.4.0-beta.17",
-  "installer_url": "https://github.com/LeeDohyeong75/blogflow-updates/releases/download/v0.4.0-beta.17/BlogFlow_Pilot_Setup_0.4.0-beta17_PILOT_CANDIDATE.exe",
-  "sha256": "26d44b423709757597a22e9bb71d29ff668155088f29a4b1b396170e9b392644",
-  "size": 40936380,
-  "notes": "BlogFlow beta.17 사용자 동의 기반 업데이트 (배포 승인 전 시험)",
-  "signature": "3337f145f70ca89ff6ea1dc7cb4d301f2351ff3be0b78096b38793508202118d428f3c478508e0df9d6f6b9032c3a69f4873ba834e93d69af87283f458379e01"
+  "version": "0.4.0-beta.19",
+  "installer_url": "https://github.com/LeeDohyeong75/blogflow-updates/releases/download/v0.4.0-beta.19/BlogFlow_Pilot_Setup_0.4.0-beta19_PILOT_CANDIDATE.exe",
+  "sha256": "72a30ce41ae31e75732e3fdff2ab854d976b7a083b4aa4da4fe117c3f52da902",
+  "size": 40952745,
+  "notes": "beta.18 자동 업데이트 알림 및 beta.19 동의 기반 설치 현황 관리",
+  "signature": "d714bcd11ada8e17901ad86e6e1507bef2f8f0f410ca4ac5f5c3bfdc0c8e8609eac2403c67b1c98fe6c7e3f91e0af9ed4c664ad08a81e52c4e3846cad8641706"
 }
