@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "0.4.0-beta.9",
-  "installer_url": "https://github.com/LeeDohyeong75/blogflow-updates/releases/download/v0.4.0-beta.9/BlogFlow_Pilot_Setup_0.4.0-beta9.exe",
-  "sha256": "6444e04179e082f6bd3d26206bdf31eef2f6dffa40703d0e2b6b25acfa91a8f9",
-  "size": 40382464,
-  "notes": "BlogFlow beta.9: online update + DB preservation field verification",
-  "signature": "d91c5cf87e81ddc9876da0f384f48f5f88f8254defcc26fa1e8fd5a1a87f813889d2c35a5c1f7086ea274fa3814d4b1634f702c793f878e9019281c31ad2d009"
+  "version": "0.4.0-beta.17",
+  "installer_url": "https://github.com/LeeDohyeong75/blogflow-updates/releases/download/v0.4.0-beta.17/BlogFlow_Pilot_Setup_0.4.0-beta17_PILOT_CANDIDATE.exe",
+  "sha256": "26d44b423709757597a22e9bb71d29ff668155088f29a4b1b396170e9b392644",
+  "size": 40936380,
+  "notes": "BlogFlow beta.17 사용자 동의 기반 업데이트 (배포 승인 전 시험)",
+  "signature": "3337f145f70ca89ff6ea1dc7cb4d301f2351ff3be0b78096b38793508202118d428f3c478508e0df9d6f6b9032c3a69f4873ba834e93d69af87283f458379e01"
 }
