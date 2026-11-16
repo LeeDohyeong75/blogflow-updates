@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "0.4.0-beta.19",
-  "installer_url": "https://github.com/LeeDohyeong75/blogflow-updates/releases/download/v0.4.0-beta.19/BlogFlow_Pilot_Setup_0.4.0-beta19_PILOT_CANDIDATE.exe",
-  "sha256": "72a30ce41ae31e75732e3fdff2ab854d976b7a083b4aa4da4fe117c3f52da902",
-  "size": 40952745,
-  "notes": "beta.18 자동 업데이트 알림 및 beta.19 동의 기반 설치 현황 관리",
-  "signature": "d714bcd11ada8e17901ad86e6e1507bef2f8f0f410ca4ac5f5c3bfdc0c8e8609eac2403c67b1c98fe6c7e3f91e0af9ed4c664ad08a81e52c4e3846cad8641706"
+  "version": "0.4.0-beta.20",
+  "installer_url": "https://github.com/LeeDohyeong75/blogflow-updates/releases/download/v0.4.0-beta.20/BlogFlow_Pilot_Setup_0.4.0-beta20_PILOT_CANDIDATE.exe",
+  "sha256": "a642232d78caaf7bc9b2a2ad31811fbae17d92b17ac14d1cfd6bd1d318638ba5",
+  "size": 40953825,
+  "notes": "beta.20 코드/관리자 승인 없는 설치 현황 자동 등록 및 서명된 자동 업데이트",
+  "signature": "30d709ce8a4d08ee4a767220f9d213271ec80f736b43f4ab981a87b800b5848770cc83c42109af4d7c19cd8fa19c562c50d3ffe1a615570bf578c7fcdae3cc0a"
 }
